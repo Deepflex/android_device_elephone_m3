@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "Deepflex/android_vendor_elephone_m3",
+    "target_path": "vendor/elephone/m3",
+    "branch": "master"
+  }
+] 

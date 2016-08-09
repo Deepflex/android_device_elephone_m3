@@ -1,0 +1,6 @@
+key 102 HOME
+key 139 MENU
+key 158 BACK
+
+# originally GESTURE, replaced for a minimalistic "tap to wake" impl
+key 195 POWER WAKE
