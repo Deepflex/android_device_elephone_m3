@@ -3,7 +3,7 @@ Elephone M3
 
 The Elephone M3 (codenamed _"M3"_) is a flagship smartphone from Elephone.
 
-It was announced on 25 December 2015.
+It was announced on 27 April 2016.
 
 Now M3 supporting CyanogenMod 13.0
 
@@ -18,6 +18,8 @@ Shipped Android Version | 6.0
 Storage | 32GB
 Battery | 3000 mAh
 Display | 5.5" 1920 x 1080 px DPI 480
+Rear Camera | 21Mp
+Front Camera | 8Mp
 
 ![Elephone M3](http://image3.geekbuying.com/ggo_pic/2016-02-20/201602200937291fdioaqm.jpg "Elephone M3")
 
